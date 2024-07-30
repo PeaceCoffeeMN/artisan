@@ -1,0 +1,15 @@
+{
+  "name": "artisan",
+  "version": "1.0.0",
+  "description": "<img align=\"right\" src=\"https://raw.githubusercontent.com/artisan-roaster-scope/artisan/master/wiki/screenshots/artisan.png\" width=\"70\">",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
